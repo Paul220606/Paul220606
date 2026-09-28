@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=160&section=header&text=Ho%20Thanh%20Hai%20Tran&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=140&section=header&text=Ho%20Thanh%20Hai%20Tran&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=7F5AF0&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Paul+%F0%9F%91%8B;I+dream+up+games%2C+worlds+and+stories;Then+I+write+the+code;Where+ideas+come+alive+%E2%9C%A8" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1500&color=7F5AF0&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Paul+%F0%9F%91%8B;Software+Systems+student+%40+UniMelb;Bringing+ideas+to+life+%E2%9C%A8" alt="Typing intro" />
 </p>
 
 <p align="center">
